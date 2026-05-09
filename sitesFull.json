@@ -197,21 +197,6 @@
     },
     {
       "id": "",
-      "key": "🎬金蝉影视",
-      "name": "🎬金蝉影视",
-      "api": "https://zy.jinchancaiji.com/api.php/provide/vod",
-      "type": 2,
-      "isActive": 1,
-      "time": "",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    {
-      "id": "",
       "key": "🎬金鹰点播",
       "name": "🎬金鹰点播",
       "api": "https://jinyingzy.com/api.php/provide/vod",
